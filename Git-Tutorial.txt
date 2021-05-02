@@ -2,19 +2,19 @@ C:\Users\KanghoLee>git config --global user.name k4ngh52
 C:\Users\KanghoLee>git config --global user.email @naver.com
 C:\Users\KanghoLee> cd C:\Education
 
-C:\Education>git clone https://github.com/k4ngh52/Git-Tutorial.git
-Cloning into 'Git-Tutorial'...
+C:\Education>git clone https://github.com/k4ngh52/Git-Tutorial2.git
+Cloning into 'Git-Tutorial2'...
 warning: You appear to have cloned an empty repository.
 
-C:\Education> cd Git-Tutorial
+C:\Education> cd Git-Tutorial2
 C:\Education\Git-Tutorial>git add document.txt
 
-C:\Education\Git-Tutorial>git commit -m "Add Text File [document.txt]"
+C:\Education\Git-Tutorial2>git commit -m "Add Text File [document.txt]"
 [master (root-commit) 0722825] Add Text File [document.txt]
  1 file changed, 1 insertion(+)
  create mode 100644 document.txt
 
-C:\Education\Git-Tutorial>git push
+C:\Education\Git-Tutorial2>git push
 Enumerating objects: 3, done.
 Counting objects: 100% (3/3), done.
 Writing objects: 100% (3/3), 248 bytes | 248.00 KiB/s, done.
